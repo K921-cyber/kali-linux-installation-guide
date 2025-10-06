@@ -1,6 +1,6 @@
 # Kali Linux Installation Guide 🐧
 
-![Kali Linux Logo](./images/kali_banner.png)
+![Kali Linux Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png)
 
 This repository provides a step-by-step guide to installing **Kali Linux as a normal software** inside your existing operating system (Windows/Linux/Mac). We will use free virtualization tools like **VirtualBox** or **VMware**. This method is safe and won't affect your main operating system.
 
