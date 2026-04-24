@@ -42,7 +42,8 @@ First, you need the official installer image.
 -   **Type:** `Linux`
 -   **Version:** `Debian (64-bit)`
 
-![Screenshot of creating a new VM in VirtualBox](./images/2-create-new-vm.png)
+![Screenshot of creating a new VM in VirtualBox](<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/244cd4e7-67bc-425b-9dcf-c96d1963cf83" />
+)
 
 ### 4. Assign Resources ⚙️
 
